@@ -1,0 +1,27 @@
+[
+  {
+    "source": "fictional_rss",
+    "company": "Andes Cold Chain Demo",
+    "title": "Automate inventory and invoice reconciliation",
+    "description": "The operations team combines spreadsheets, invoices and warehouse exports manually. They need API integration, validation, anomaly flags and an auditable dashboard.",
+    "website": "https://example.invalid/andes-cold-chain",
+    "contact_email": "ops@example.invalid"
+  },
+  {
+    "source": "fictional_directory",
+    "company": "Pacific Field Services Demo",
+    "title": "Improve maintenance document search",
+    "description": "Technicians need a controlled way to find exact fault codes in manuals, preserve source evidence and send uncertain cases to supervisor review.",
+    "website": "https://example.invalid/pacific-field-services",
+    "contact_email": ""
+  },
+  {
+    "source": "fictional_rss",
+    "company": "Generic Design Demo",
+    "title": "Refresh a marketing banner",
+    "description": "A small visual design request covering colors, typography and banner dimensions.",
+    "website": "https://example.invalid/generic-design",
+    "contact_email": "hello@example.invalid"
+  }
+]
+
